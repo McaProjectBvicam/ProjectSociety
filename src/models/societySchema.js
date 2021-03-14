@@ -129,7 +129,7 @@ const paymentsSchema = new mongoose.Schema({
 })
 
 //
-
+//hello this is just a check
 const memberSchema = new mongoose.Schema({
     name:{
         type:String,
